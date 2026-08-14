@@ -5,11 +5,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 662 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 662 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 662 | 🐛 11 | 📅 2024-04-20
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 662 | 🐛 11 | 📅 2024-04-20
-[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 662 | 🐛 11 | 📅 2024-04-20
+[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 663 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 663 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 663 | 🐛 11 | 📅 2024-04-20
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 663 | 🐛 11 | 📅 2024-04-20
+[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 663 | 🐛 11 | 📅 2024-04-20
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme) ⭐ 177 | 🐛 0 | 📅 2026-06-25
 
 <p>🧭 优秀的导航项目以及导航站合集 🧭</p>
@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,312 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,313 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
