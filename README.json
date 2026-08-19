@@ -1,7 +1,111 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "🦩van-nav\n🦩发现导航\n🦩Webstack 网址导航\n🦩OneNav\n🦩极客猿导航\n🦩一个导航\n🦩六零导航页\n🦩WebsiteGuide\n🦩我的导航\n🦩naviii\n🦩团队服务导航\n🦩运维导航\n🦩迷你网址导航 NavSite",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "项目地址：WebStackPage.github.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114846052,
+            "language": "CSS",
+            "last_commit": "2024-05-04T07:39:42Z",
+            "owner": "WebStackPage",
+            "repo": "WebStackPage.github.io",
+            "stars": 7309
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "其他版本",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hugo 版风格一：https://github.com/shenweiyan/WebStack-Hugo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389529349,
+                "language": "Go",
+                "last_commit": "2026-03-23T02:33:06Z",
+                "owner": "shenweiyan",
+                "repo": "WebStack-Hugo",
+                "stars": 1463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hexo 版：https://github.com/HCLonely/hexo-theme-webstack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269334927,
+                "language": "CSS",
+                "last_commit": "2025-09-05T12:04:49Z",
+                "owner": "HCLonely",
+                "repo": "hexo-theme-webstack",
+                "stars": 511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java 版：https://github.com/jsnjfz/WebStack-Guns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199103881,
+                "language": "Java",
+                "last_commit": "2026-07-30T02:30:49Z",
+                "owner": "jsnjfz",
+                "repo": "WebStack-Guns",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hugo 版风格二：https://github.com/iplaycode/webstack-hugo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233482395,
+                "language": "HTML",
+                "last_commit": "2024-07-15T05:41:23Z",
+                "owner": "iplaycode",
+                "repo": "webstack-hugo",
+                "stars": 244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue 版：https://github.com/Anjaxs/WebStack-vue/tree/master",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247507007,
+                "language": "CSS",
+                "last_commit": "2023-03-15T14:12:33Z",
+                "owner": "Anjaxs",
+                "repo": "WebStack-vue",
+                "stars": 152
+              }
+            }
+          ]
+        }
+      ],
+      "title": "优秀项目"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T10:47:07.798Z",
+    "last_updated": "2026-08-19T10:46:18.550Z",
     "original_repository": "eryajf/awesome-navigation",
     "original_repository_sha": "e512f0f1a26428eae88bccb6c5c970f8ca982f24",
     "enhanced_repository": "enhansome/enhansome-navigation",
