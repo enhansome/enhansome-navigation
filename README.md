@@ -78,7 +78,7 @@
 
 * 其他版本
 
-  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,463 | 🐛 2 | 🌐 Go | 📅 2026-03-23
+  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,464 | 🐛 2 | 🌐 Go | 📅 2026-03-23
   * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 511 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 415 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 244 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 899 | 🐛 0 | 🌐 PHP | 📅 2026-08-19
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 900 | 🐛 0 | 🌐 PHP | 📅 2026-08-19
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -206,7 +206,7 @@
 
 🦩**迷你网址导航 NavSite**
 
-* 项目地址：[nav-site](https://github.com/cifaz/nav-site) ⭐ 33 | 🐛 0 | 🌐 Go | 📅 2023-12-14
+* 项目地址：[nav-site](https://github.com/cifaz/nav-site) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2023-12-14
 
 * 项目介绍：公司的各种资源太多, 记不住? 这个软件将帮你大忙, 公司所有人员只需要打开这一个网站就可以清楚知道公司内部所有资源
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
