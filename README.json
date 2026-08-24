@@ -5,6 +5,36 @@
       "items": [
         {
           "node_type": "item",
+          "title": "项目地址：van-nav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439832960,
+            "language": "TypeScript",
+            "last_commit": "2025-07-14T05:52:49Z",
+            "owner": "Mereithhh",
+            "repo": "van-nav",
+            "stars": 1277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：nav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1238749230,
+            "language": null,
+            "last_commit": "2026-05-14T12:18:05Z",
+            "owner": "xjh22222228",
+            "repo": "nav",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "项目地址：WebStackPage.github.io",
           "description": null,
           "children": [],
@@ -15,7 +45,7 @@
             "last_commit": "2024-05-04T07:39:42Z",
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7321
+            "stars": 7323
           }
         },
         {
@@ -99,13 +129,163 @@
               }
             }
           ]
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：onenav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321006020,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T04:54:44Z",
+            "owner": "helloxz",
+            "repo": "onenav",
+            "stars": 3129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：geek-navigation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119013227,
+            "language": "TypeScript",
+            "last_commit": "2024-07-02T05:29:34Z",
+            "owner": "geekape",
+            "repo": "geek-navigation",
+            "stars": 1905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：aNavigation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236279419,
+            "language": "JavaScript",
+            "last_commit": "2023-04-11T01:35:16Z",
+            "owner": "HoYuenhang",
+            "repo": "aNavigation",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：lylme_spage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 449646256,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:12:04Z",
+            "owner": "LyLme",
+            "repo": "lylme_spage",
+            "stars": 901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：WebsiteGuide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 336690945,
+            "language": "Python",
+            "last_commit": "2023-06-30T03:40:40Z",
+            "owner": "mizhexiaoxiao",
+            "repo": "WebsiteGuide",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：MyNav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182627481,
+            "language": "HTML",
+            "last_commit": "2019-04-22T08:40:52Z",
+            "owner": "j67678",
+            "repo": "MyNav",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：naviii",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 559813346,
+            "language": "Vue",
+            "last_commit": "2024-02-18T13:58:43Z",
+            "owner": "eehhh",
+            "repo": "naviii",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：team-nav",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275557700,
+            "language": "Java",
+            "last_commit": "2025-07-11T12:57:39Z",
+            "owner": "tuituidan",
+            "repo": "team-nav",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：daohang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110544832,
+            "language": "Python",
+            "last_commit": "2023-09-11T02:24:24Z",
+            "owner": "zhuima",
+            "repo": "daohang",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "项目地址：nav-site",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 505121569,
+            "language": "Go",
+            "last_commit": "2023-12-14T09:52:32Z",
+            "owner": "cifaz",
+            "repo": "nav-site",
+            "stars": 33
+          }
         }
       ],
       "title": "优秀项目"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:54:15.967Z",
+    "last_updated": "2026-08-24T14:18:03.971Z",
     "original_repository": "eryajf/awesome-navigation",
     "original_repository_id": 547915373,
     "original_repository_sha": "e512f0f1a26428eae88bccb6c5c970f8ca982f24",
