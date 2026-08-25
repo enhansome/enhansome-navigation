@@ -45,7 +45,7 @@
             "last_commit": "2024-05-04T07:39:42Z",
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7323
+            "stars": 7322
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-05-13T04:54:44Z",
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3129
+            "stars": 3128
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2024-07-02T05:29:34Z",
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1905
+            "stars": 1906
           }
         },
         {
@@ -184,7 +184,7 @@
             "archived": false,
             "id": 449646256,
             "language": "PHP",
-            "last_commit": "2026-08-24T14:12:04Z",
+            "last_commit": "2026-08-24T14:28:57Z",
             "owner": "LyLme",
             "repo": "lylme_spage",
             "stars": 901
@@ -285,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:03.971Z",
+    "last_updated": "2026-08-25T06:12:16.216Z",
     "original_repository": "eryajf/awesome-navigation",
     "original_repository_id": 547915373,
     "original_repository_sha": "e512f0f1a26428eae88bccb6c5c970f8ca982f24",
