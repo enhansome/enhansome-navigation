@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,277 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,278 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,129 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,128 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 903 | 🐛 0 | 🌐 PHP | 📅 2026-08-26
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 903 | 🐛 0 | 🌐 PHP | 📅 2026-08-27
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -151,7 +151,7 @@
 
 🦩**WebsiteGuide**
 
-* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 228 | 🐛 12 | 🌐 Python | 📅 2023-06-30
+* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 229 | 🐛 12 | 🌐 Python | 📅 2023-06-30
 
 * 企业内部网址导航系统，基于 Python+Django+Vue 开发，具有网址导航、网址管理、用户管理等功能。
 
