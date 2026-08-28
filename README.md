@@ -5,11 +5,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 664 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 664 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 664 | 🐛 11 | 📅 2024-04-20
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 664 | 🐛 11 | 📅 2024-04-20
-[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 664 | 🐛 11 | 📅 2024-04-20
+[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 665 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 665 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 665 | 🐛 11 | 📅 2024-04-20
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 665 | 🐛 11 | 📅 2024-04-20
+[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 665 | 🐛 11 | 📅 2024-04-20
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme) ⭐ 177 | 🐛 0 | 📅 2026-06-25
 
 <p>🧭 优秀的导航项目以及导航站合集 🧭</p>
@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,325 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,327 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -78,8 +78,8 @@
 
 * 其他版本
 
-  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,462 | 🐛 2 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 511 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,463 | 🐛 2 | 🌐 Go | 📅 2026-03-23
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 512 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 416 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 243 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 151 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,128 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,129 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,906 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,908 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
@@ -127,7 +127,7 @@
 
 🦩**一个导航**
 
-* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 365 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
+* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 366 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
 
 * 项目介绍：一个导航，支持响应式，支持移动端。
 
@@ -173,7 +173,7 @@
 
 🦩**naviii**
 
-* 项目地址：[naviii](https://github.com/eehhh/naviii) ⭐ 231 | 🐛 1 | 🌐 Vue | 📅 2024-02-18
+* 项目地址：[naviii](https://github.com/eehhh/naviii) ⭐ 230 | 🐛 1 | 🌐 Vue | 📅 2024-02-18
 
 * 项目介绍：一个简单优雅的导航页
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

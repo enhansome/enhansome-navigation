@@ -16,7 +16,8 @@
             "owner": "Mereithhh",
             "repo": "van-nav",
             "stars": 1278
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "xjh22222228",
             "repo": "nav",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-05-04T07:39:42Z",
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7325
-          }
+            "stars": 7327
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "group",
@@ -65,8 +68,9 @@
                 "last_commit": "2026-03-23T02:33:06Z",
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1462
-              }
+                "stars": 1463
+              },
+              "first_seen": "2026-08-28T21:11:31.723Z"
             },
             {
               "node_type": "item",
@@ -80,8 +84,9 @@
                 "last_commit": "2025-09-05T12:04:49Z",
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 511
-              }
+                "stars": 512
+              },
+              "first_seen": "2026-08-28T21:11:31.723Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T21:11:31.723Z"
             },
             {
               "node_type": "item",
@@ -111,7 +117,8 @@
                 "owner": "iplaycode",
                 "repo": "webstack-hugo",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T21:11:31.723Z"
             },
             {
               "node_type": "item",
@@ -126,7 +133,8 @@
                 "owner": "Anjaxs",
                 "repo": "WebStack-vue",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T21:11:31.723Z"
             }
           ]
         },
@@ -142,8 +150,9 @@
             "last_commit": "2026-05-13T04:54:44Z",
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3128
-          }
+            "stars": 3129
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -157,8 +166,9 @@
             "last_commit": "2024-07-02T05:29:34Z",
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1906
-          }
+            "stars": 1908
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -172,8 +182,9 @@
             "last_commit": "2023-04-11T01:35:16Z",
             "owner": "HoYuenhang",
             "repo": "aNavigation",
-            "stars": 365
-          }
+            "stars": 366
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -188,7 +199,8 @@
             "owner": "LyLme",
             "repo": "lylme_spage",
             "stars": 903
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -203,7 +215,8 @@
             "owner": "mizhexiaoxiao",
             "repo": "WebsiteGuide",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -218,7 +231,8 @@
             "owner": "j67678",
             "repo": "MyNav",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -232,8 +246,9 @@
             "last_commit": "2024-02-18T13:58:43Z",
             "owner": "eehhh",
             "repo": "naviii",
-            "stars": 231
-          }
+            "stars": 230
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -248,7 +263,8 @@
             "owner": "tuituidan",
             "repo": "team-nav",
             "stars": 565
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -263,7 +279,8 @@
             "owner": "zhuima",
             "repo": "daohang",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         },
         {
           "node_type": "item",
@@ -278,14 +295,15 @@
             "owner": "cifaz",
             "repo": "nav-site",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:11:31.723Z"
         }
       ],
       "title": "优秀项目"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:30:48.675Z",
+    "last_updated": "2026-08-28T21:11:31.723Z",
     "original_repository_info": {
       "archived": false,
       "id": 547915373,
@@ -293,7 +311,7 @@
       "last_commit": "2024-04-20T14:01:03Z",
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 664
+      "stars": 665
     },
     "original_repository_sha": "e512f0f1a26428eae88bccb6c5c970f8ca982f24",
     "enhanced_repository": "enhansome/enhansome-navigation",
