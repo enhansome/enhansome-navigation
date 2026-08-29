@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件",
+            "homepage": "https://demo-tools.mereith.com",
             "id": 439832960,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-14T05:52:49Z",
+            "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1278
+            "stars": 1278,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1238749230,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-14T12:18:05Z",
+            "open_issues": 0,
             "owner": "xjh22222228",
             "repo": "nav",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -42,12 +52,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️静态响应式网址导航网站 - webstack.cc",
+            "homepage": "http://webstack.cc",
             "id": 114846052,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-05-04T07:39:42Z",
+            "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7327
+            "stars": 7326,
+            "topics": [
+              "bookmark",
+              "dao-hang",
+              "nav",
+              "navigation",
+              "tags",
+              "website",
+              "webstack"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -63,12 +86,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。",
+                "homepage": "https://shenweiyan.github.io/WebStack-Hugo/",
                 "id": 389529349,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-23T02:33:06Z",
+                "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1463
+                "stars": 1463,
+                "topics": [
+                  "hugo",
+                  "navigation",
+                  "webstack"
+                ]
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
             },
@@ -79,12 +111,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hexo theme based on webstack. | 一个基于webstack的hexo主题。",
+                "homepage": "https://webstack.hclonely.com/",
                 "id": 269334927,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-09-05T12:04:49Z",
+                "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 512
+                "stars": 512,
+                "topics": [
+                  "hexo",
+                  "hexo-theme",
+                  "webstack"
+                ]
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
             },
@@ -95,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个开源的网址导航网站项目，后台基于Guns和Springboot",
+                "homepage": null,
                 "id": 199103881,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-30T02:30:49Z",
+                "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
             },
@@ -111,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hugo版 WebStack 主题 Demo",
+                "homepage": "https://iplaycode.github.io/nav/",
                 "id": 233482395,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-07-15T05:41:23Z",
+                "open_issues": 8,
                 "owner": "iplaycode",
                 "repo": "webstack-hugo",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
             },
@@ -127,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://github.com/WebStackPage/WebStackPage.github.io 的vue版本",
+                "homepage": null,
                 "id": 247507007,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-03-15T14:12:33Z",
+                "open_issues": 8,
                 "owner": "Anjaxs",
                 "repo": "WebStack-vue",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
             }
@@ -145,12 +201,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。",
+            "homepage": "https://www.onenav.top",
             "id": 321006020,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T04:54:44Z",
+            "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3129
+            "stars": 3129,
+            "topics": [
+              "bookmark",
+              "navigation",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -161,12 +226,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️ 极客猿导航－独立开发者的导航站！",
+            "homepage": "http://nav.geekape.net/",
             "id": 119013227,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-02T05:29:34Z",
+            "open_issues": 27,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1908
+            "stars": 1908,
+            "topics": [
+              "express",
+              "mongodb",
+              "nodejs",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -177,12 +252,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "单纯就是一个导航。",
+            "homepage": "https://nav.kksan.top/",
             "id": 236279419,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-11T01:35:16Z",
+            "open_issues": 3,
             "owner": "HoYuenhang",
             "repo": "aNavigation",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "bootstrap",
+              "jquery"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -193,12 +276,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "六零导航页",
+            "homepage": "https://hao.lylme.com",
             "id": 449646256,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:36:04Z",
+            "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 903
+            "stars": 903,
+            "topics": [
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -209,12 +299,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😃企业内部网址导航系统，基于Python+Django+Vue开发，具有网址导航、网址管理、用户管理等功能",
+            "homepage": null,
             "id": 336690945,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-30T03:40:40Z",
+            "open_issues": 12,
             "owner": "mizhexiaoxiao",
             "repo": "WebsiteGuide",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "django",
+              "django-ops",
+              "django-rest-framework",
+              "docker",
+              "ops",
+              "ops-admin",
+              "ops-tools",
+              "python3",
+              "vue",
+              "website",
+              "websiteguide"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -225,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "我的导航",
+            "homepage": "https://renzhn.github.io/MyNav/",
             "id": 182627481,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-04-22T08:40:52Z",
+            "open_issues": 2,
             "owner": "j67678",
             "repo": "MyNav",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -241,12 +353,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简单优雅的导航页",
+            "homepage": "https://naviii.uue.me",
             "id": 559813346,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-02-18T13:58:43Z",
+            "open_issues": 1,
             "owner": "eehhh",
             "repo": "naviii",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "typescript",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -257,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。",
+            "homepage": null,
             "id": 275557700,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-11T12:57:39Z",
+            "open_issues": 49,
             "owner": "tuituidan",
             "repo": "team-nav",
-            "stars": 565
+            "stars": 565,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -273,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址",
+            "homepage": "https://zhuima.github.io/daohang/",
             "id": 110544832,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-09-11T02:24:24Z",
+            "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         },
@@ -289,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "迷你网址导航NavSite (mini navigate site)",
+            "homepage": null,
             "id": 505121569,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-14T09:52:32Z",
+            "open_issues": 1,
             "owner": "cifaz",
             "repo": "nav-site",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
         }
@@ -303,15 +438,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:31.723Z",
+    "last_updated": "2026-08-29T04:39:32.890Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
+      "homepage": null,
       "id": 547915373,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-04-20T14:01:03Z",
+      "open_issues": 11,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 665
+      "stars": 665,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "eryajf",
+        "navigation"
+      ]
     },
     "original_repository_sha": "e512f0f1a26428eae88bccb6c5c970f8ca982f24",
     "enhanced_repository": "enhansome/enhansome-navigation",
