@@ -127,7 +127,7 @@
 
 🦩**一个导航**
 
-* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 366 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
+* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 367 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
 
 * 项目介绍：一个导航，支持响应式，支持移动端。
 
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 903 | 🐛 0 | 🌐 PHP | 📅 2026-08-27
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 903 | 🐛 0 | 🌐 PHP | 📅 2026-08-29
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
