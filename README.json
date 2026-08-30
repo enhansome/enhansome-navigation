@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7326,
+            "stars": 7327,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -281,7 +281,7 @@
             "id": 449646256,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T09:40:13Z",
+            "last_commit": "2026-08-30T09:40:18Z",
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:05:04.693Z",
+    "last_updated": "2026-08-30T14:52:20.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
