@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "xjh22222228",
             "repo": "nav",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7327,
+            "stars": 7329,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -235,7 +235,7 @@
             "open_issues": 27,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1908,
+            "stars": 1909,
             "topics": [
               "express",
               "mongodb",
@@ -281,11 +281,11 @@
             "id": 449646256,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T09:40:18Z",
+            "last_commit": "2026-08-31T12:26:24Z",
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 903,
+            "stars": 904,
             "topics": [
               "php"
             ]
@@ -386,7 +386,7 @@
             "open_issues": 49,
             "owner": "tuituidan",
             "repo": "team-nav",
-            "stars": 565,
+            "stars": 566,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:52:20.331Z",
+    "last_updated": "2026-08-31T17:37:42.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 11,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 665,
+      "stars": 666,
       "topics": [
         "awesome",
         "awesome-list",
