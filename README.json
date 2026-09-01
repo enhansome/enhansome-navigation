@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7329,
+            "stars": 7332,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1463,
+                "stars": 1465,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -425,7 +425,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2023-12-14T09:52:32Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "cifaz",
             "repo": "nav-site",
             "stars": 33,
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:37:42.197Z",
+    "last_updated": "2026-09-01T14:53:48.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
