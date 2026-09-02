@@ -5,11 +5,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 666 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 666 | 🐛 11 | 📅 2024-04-20
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 666 | 🐛 11 | 📅 2024-04-20
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 666 | 🐛 11 | 📅 2024-04-20
-[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 666 | 🐛 11 | 📅 2024-04-20
+[![GitHub contributors](https://img.shields.io/github/contributors/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/graphs/contributors) ⭐ 667 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/pulls) ⭐ 667 | 🐛 11 | 📅 2024-04-20
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/stargazers) ⭐ 667 | 🐛 11 | 📅 2024-04-20
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/awesome-navigation.svg)](https://github.com/eryajf/awesome-navigation) ⭐ 667 | 🐛 11 | 📅 2024-04-20
+[![GitHub license](https://img.shields.io/github/license/eryajf/awesome-navigation)](https://github.com/eryajf/awesome-navigation/blob/main/LICENSE) ⭐ 667 | 🐛 11 | 📅 2024-04-20
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme) ⭐ 177 | 🐛 0 | 📅 2026-06-25
 
 <p>🧭 优秀的导航项目以及导航站合集 🧭</p>
@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,278 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,279 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,332 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,334 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,909 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,910 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

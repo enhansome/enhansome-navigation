@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1278,
+            "stars": 1279,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7332,
+            "stars": 7334,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -235,7 +235,7 @@
             "open_issues": 27,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1909,
+            "stars": 1910,
             "topics": [
               "express",
               "mongodb",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:53:48.758Z",
+    "last_updated": "2026-09-02T14:30:01.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 11,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 666,
+      "stars": 667,
       "topics": [
         "awesome",
         "awesome-list",
