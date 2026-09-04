@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 904 | 🐛 0 | 🌐 PHP | 📅 2026-09-03
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 905 | 🐛 0 | 🌐 PHP | 📅 2026-09-04
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
