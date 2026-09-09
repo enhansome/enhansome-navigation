@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1281,
+            "stars": 1282,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7339,
+            "stars": 7341,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1465,
+                "stars": 1466,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -210,7 +210,7 @@
             "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3131,
+            "stars": 3132,
             "topics": [
               "bookmark",
               "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 27,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "express",
               "mongodb",
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 272,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:32:51.705Z",
+    "last_updated": "2026-09-09T14:36:35.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
