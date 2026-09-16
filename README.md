@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,345 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,347 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,913 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,912 | 🐛 27 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 911 | 🐛 0 | 🌐 PHP | 📅 2026-09-15
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 911 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -195,7 +195,7 @@
 
 🦩**运维导航**
 
-* 项目地址：[daohang](https://github.com/zhuima/daohang) ⭐ 273 | 🐛 2 | 🌐 Python | 📅 2023-09-11
+* 项目地址：[daohang](https://github.com/zhuima/daohang) ⭐ 272 | 🐛 2 | 🌐 Python | 📅 2023-09-11
 
 * 项目介绍：运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
