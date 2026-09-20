@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 911,
+            "stars": 913,
             "topics": [
               "php"
             ]
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "eehhh",
             "repo": "naviii",
-            "stars": 230,
+            "stars": 229,
             "topics": [
               "typescript",
               "vue3"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:55:41.917Z",
+    "last_updated": "2026-09-20T14:14:04.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",

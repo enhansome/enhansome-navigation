@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 911 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 913 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -173,7 +173,7 @@
 
 🦩**naviii**
 
-* 项目地址：[naviii](https://github.com/eehhh/naviii) ⭐ 230 | 🐛 1 | 🌐 Vue | 📅 2024-02-18
+* 项目地址：[naviii](https://github.com/eehhh/naviii) ⭐ 229 | 🐛 1 | 🌐 Vue | 📅 2024-02-18
 
 * 项目介绍：一个简单优雅的导航页
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
