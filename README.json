@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1471,
+                "stars": 1470,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1914,
+            "stars": 1913,
             "topics": [
               "express",
               "mongodb",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:10:01.051Z",
+    "last_updated": "2026-09-28T18:10:12.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
