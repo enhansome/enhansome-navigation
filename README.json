@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7357,
+            "stars": 7356,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 514,
+                "stars": 513,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:02:02.130Z",
+    "last_updated": "2026-10-02T16:16:31.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
