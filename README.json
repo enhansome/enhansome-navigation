@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "项目地址：van-nav",
-          "description": null,
+          "description": "Mereithhh/van-nav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1285,
+            "stars": 1283,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "项目地址：nav",
-          "description": null,
+          "description": "xjh22222228/nav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "项目地址：WebStackPage.github.io",
-          "description": null,
+          "description": "WebStackPage/WebStackPage.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7356,
+            "stars": 7357,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -82,7 +82,7 @@
             {
               "node_type": "item",
               "title": "Hugo 版风格一：https://github.com/shenweiyan/WebStack-Hugo",
-              "description": null,
+              "description": "shenweiyan/WebStack-Hugo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "Hexo 版：https://github.com/HCLonely/hexo-theme-webstack",
-              "description": null,
+              "description": "HCLonely/hexo-theme-webstack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -132,7 +132,7 @@
             {
               "node_type": "item",
               "title": "Java 版：https://github.com/jsnjfz/WebStack-Guns",
-              "description": null,
+              "description": "jsnjfz/WebStack-Guns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "Hugo 版风格二：https://github.com/iplaycode/webstack-hugo",
-              "description": null,
+              "description": "iplaycode/webstack-hugo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +174,7 @@
             {
               "node_type": "item",
               "title": "Vue 版：https://github.com/Anjaxs/WebStack-vue/tree/master",
-              "description": null,
+              "description": "Anjaxs/WebStack-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -197,7 +197,7 @@
         {
           "node_type": "item",
           "title": "项目地址：onenav",
-          "description": null,
+          "description": "helloxz/onenav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "项目地址：geek-navigation",
-          "description": null,
+          "description": "geekape/geek-navigation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "项目地址：aNavigation",
-          "description": null,
+          "description": "HoYuenhang/aNavigation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -272,7 +272,7 @@
         {
           "node_type": "item",
           "title": "项目地址：lylme_spage",
-          "description": null,
+          "description": "LyLme/lylme_spage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -295,7 +295,7 @@
         {
           "node_type": "item",
           "title": "项目地址：WebsiteGuide",
-          "description": null,
+          "description": "mizhexiaoxiao/WebsiteGuide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "项目地址：MyNav",
-          "description": null,
+          "description": "j67678/MyNav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "项目地址：naviii",
-          "description": null,
+          "description": "eehhh/naviii",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -373,7 +373,7 @@
         {
           "node_type": "item",
           "title": "项目地址：team-nav",
-          "description": null,
+          "description": "tuituidan/team-nav",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
         {
           "node_type": "item",
           "title": "项目地址：daohang",
-          "description": null,
+          "description": "zhuima/daohang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "项目地址：nav-site",
-          "description": null,
+          "description": "cifaz/nav-site",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:16:31.895Z",
+    "last_updated": "2026-10-03T04:59:21.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
