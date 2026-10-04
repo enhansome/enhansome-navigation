@@ -78,8 +78,8 @@
 
 * 其他版本
 
-  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,470 | 🐛 3 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 513 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,470 | 🐛 2 | 🌐 Go | 📅 2026-03-23
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 512 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 243 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 151 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

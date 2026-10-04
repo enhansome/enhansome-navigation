@@ -92,7 +92,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-03-23T02:33:06Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
                 "stars": 1470,
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:43:26.439Z",
+    "last_updated": "2026-10-04T15:22:48.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
