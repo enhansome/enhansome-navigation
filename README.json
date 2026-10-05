@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1283,
+            "stars": 1282,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7357,
+            "stars": 7356,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1470,
+                "stars": 1469,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 512,
+                "stars": 511,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -145,7 +145,7 @@
                 "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 418,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "iplaycode",
                 "repo": "webstack-hugo",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -187,7 +187,7 @@
                 "open_issues": 8,
                 "owner": "Anjaxs",
                 "repo": "WebStack-vue",
-                "stars": 151,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 272,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:22:48.514Z",
+    "last_updated": "2026-10-05T19:18:11.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
