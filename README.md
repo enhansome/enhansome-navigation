@@ -80,7 +80,7 @@
 
   * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,469 | 🐛 2 | 🌐 Go | 📅 2026-03-23
   * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 511 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
-  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 417 | 🐛 1 | 🌐 Java | 📅 2026-07-30
+  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 150 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
   * Typecho 版：<https://www.zmki.cn/5366.html>
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 915 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 916 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
