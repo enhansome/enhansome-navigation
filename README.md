@@ -78,7 +78,7 @@
 
 * 其他版本
 
-  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,469 | 🐛 2 | 🌐 Go | 📅 2026-03-23
+  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,468 | 🐛 2 | 🌐 Go | 📅 2026-03-23
   * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 511 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,912 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,911 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
