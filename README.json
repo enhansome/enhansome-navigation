@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1282,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 88,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7356,
+            "stars": 7354,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1467,
+                "stars": 1466,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -210,7 +210,7 @@
             "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3141,
+            "stars": 3139,
             "topics": [
               "bookmark",
               "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1910,
+            "stars": 1908,
             "topics": [
               "express",
               "mongodb",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 916,
+            "stars": 915,
             "topics": [
               "php"
             ]
@@ -386,7 +386,7 @@
             "open_issues": 49,
             "owner": "tuituidan",
             "repo": "team-nav",
-            "stars": 566,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 271,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:25:42.173Z",
+    "last_updated": "2026-10-08T17:24:20.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
