@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,354 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,356 | 🐛 88 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -78,8 +78,8 @@
 
 * 其他版本
 
-  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,466 | 🐛 2 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 511 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,467 | 🐛 2 | 🌐 Go | 📅 2026-03-23
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 510 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 150 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
