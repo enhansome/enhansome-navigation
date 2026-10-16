@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,359 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,357 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,138 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,139 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -151,7 +151,7 @@
 
 🦩**WebsiteGuide**
 
-* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 230 | 🐛 12 | 🌐 Python | 📅 2023-06-30
+* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 229 | 🐛 12 | 🌐 Python | 📅 2023-06-30
 
 * 企业内部网址导航系统，基于 Python+Django+Vue 开发，具有网址导航、网址管理、用户管理等功能。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
