@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,357 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,356 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
