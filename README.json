@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 510,
+                "stars": 508,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -210,7 +210,7 @@
             "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3139,
+            "stars": 3136,
             "topics": [
               "bookmark",
               "navigation",
@@ -261,7 +261,7 @@
             "open_issues": 3,
             "owner": "HoYuenhang",
             "repo": "aNavigation",
-            "stars": 367,
+            "stars": 366,
             "topics": [
               "bootstrap",
               "jquery"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 916,
+            "stars": 917,
             "topics": [
               "php"
             ]
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:58:55.367Z",
+    "last_updated": "2026-10-20T15:06:25.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 12,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 671,
+      "stars": 670,
       "topics": [
         "awesome",
         "awesome-list",

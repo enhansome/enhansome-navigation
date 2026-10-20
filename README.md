@@ -79,7 +79,7 @@
 * 其他版本
 
   * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,469 | 🐛 2 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 510 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 508 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 241 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 150 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,139 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,136 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -127,7 +127,7 @@
 
 🦩**一个导航**
 
-* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 367 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
+* 项目地址：[aNavigation](https://github.com/Jackie1123/aNavigation) ⭐ 366 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-11
 
 * 项目介绍：一个导航，支持响应式，支持移动端。
 
@@ -140,7 +140,7 @@
 
 🦩**六零导航页**
 
-* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 916 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
+* 项目地址：[lylme\_spage](https://github.com/LyLme/lylme_spage) ⭐ 917 | 🐛 0 | 🌐 PHP | 📅 2026-09-16
 
 * 项目介绍：简洁高效无广告的上网导航和搜索入口，支持后台添加链接、自定义搜索引擎，沉淀最具价值链接，全站无商业推广，简约而不简单。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
