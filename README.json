@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7358,
+            "stars": 7360,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 508,
+                "stars": 507,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -386,7 +386,7 @@
             "open_issues": 49,
             "owner": "tuituidan",
             "repo": "team-nav",
-            "stars": 566,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:14:51.012Z",
+    "last_updated": "2026-10-22T15:17:03.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 12,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 670,
+      "stars": 669,
       "topics": [
         "awesome",
         "awesome-list",
