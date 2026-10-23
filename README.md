@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,279 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,280 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -79,16 +79,16 @@
 * 其他版本
 
   * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,470 | 🐛 2 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 507 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
-  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 418 | 🐛 1 | 🌐 Java | 📅 2026-07-30
-  * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 241 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
-  * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 150 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 508 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 419 | 🐛 1 | 🌐 Java | 📅 2026-07-30
+  * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
+  * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 151 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
   * Typecho 版：<https://www.zmki.cn/5366.html>
   * flask-blog-platform：<https://github.com/shitianfang/flask-blog-platform/tree/master>
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,136 | 🐛 44 | 🌐 JavaScript | 📅 2026-05-13
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,140 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-23
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,907 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,908 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
@@ -195,7 +195,7 @@
 
 🦩**运维导航**
 
-* 项目地址：[daohang](https://github.com/zhuima/daohang) ⭐ 270 | 🐛 2 | 🌐 Python | 📅 2023-09-11
+* 项目地址：[daohang](https://github.com/zhuima/daohang) ⭐ 271 | 🐛 2 | 🌐 Python | 📅 2023-09-11
 
 * 项目介绍：运维内部使用的导航地址, 运维导航系统，链接导航系统，网址导航系统，导航页面，导航网址。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1279,
+            "stars": 1280,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -145,7 +145,7 @@
                 "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "iplaycode",
                 "repo": "webstack-hugo",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -187,7 +187,7 @@
                 "open_issues": 8,
                 "owner": "Anjaxs",
                 "repo": "WebStack-vue",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -206,11 +206,11 @@
             "id": 321006020,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-05-13T04:54:44Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-23T06:59:36Z",
+            "open_issues": 43,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3136,
+            "stars": 3140,
             "topics": [
               "bookmark",
               "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1907,
+            "stars": 1908,
             "topics": [
               "express",
               "mongodb",
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 270,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:17:03.686Z",
+    "last_updated": "2026-10-23T15:04:14.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
