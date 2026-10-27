@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,280 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,281 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,361 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,362 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -79,7 +79,7 @@
 * 其他版本
 
   * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,472 | 🐛 2 | 🌐 Go | 📅 2026-03-23
-  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 508 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
+  * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 509 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
   * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 420 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 151 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,140 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-23
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,141 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-23
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -151,7 +151,7 @@
 
 🦩**WebsiteGuide**
 
-* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 228 | 🐛 12 | 🌐 Python | 📅 2023-06-30
+* 项目地址：[WebsiteGuide](https://github.com/mizhexiaoxiao/WebsiteGuide) ⭐ 229 | 🐛 12 | 🌐 Python | 📅 2023-06-30
 
 * 企业内部网址导航系统，基于 Python+Django+Vue 开发，具有网址导航、网址管理、用户管理等功能。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
