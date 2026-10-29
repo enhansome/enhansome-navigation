@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,281 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,283 | 🐛 57 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,141 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-23
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,142 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-29
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1281,
+            "stars": 1283,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -206,11 +206,11 @@
             "id": 321006020,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T06:59:36Z",
+            "last_commit": "2026-10-29T05:36:57Z",
             "open_issues": 43,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3141,
+            "stars": 3142,
             "topics": [
               "bookmark",
               "navigation",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:38:01.577Z",
+    "last_updated": "2026-10-29T16:55:56.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 12,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 670,
+      "stars": 669,
       "topics": [
         "awesome",
         "awesome-list",
