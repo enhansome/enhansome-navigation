@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7365,
+            "stars": 7366,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -145,7 +145,7 @@
                 "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1913,
+            "stars": 1914,
             "topics": [
               "express",
               "mongodb",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:21:44.486Z",
+    "last_updated": "2026-11-03T17:51:21.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
