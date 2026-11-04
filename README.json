@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7366,
+            "stars": 7367,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -145,7 +145,7 @@
                 "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -210,7 +210,7 @@
             "open_issues": 43,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3142,
+            "stars": 3143,
             "topics": [
               "bookmark",
               "navigation",
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1914,
+            "stars": 1913,
             "topics": [
               "express",
               "mongodb",
@@ -261,7 +261,7 @@
             "open_issues": 3,
             "owner": "HoYuenhang",
             "repo": "aNavigation",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "bootstrap",
               "jquery"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 919,
+            "stars": 918,
             "topics": [
               "php"
             ]
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:51:21.793Z",
+    "last_updated": "2026-11-04T17:58:53.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
