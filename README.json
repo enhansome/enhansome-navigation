@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-07-14T05:52:49Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1285,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -235,7 +235,7 @@
             "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1913,
+            "stars": 1912,
             "topics": [
               "express",
               "mongodb",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:29:54.667Z",
+    "last_updated": "2026-11-07T16:27:07.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
