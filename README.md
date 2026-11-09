@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,287 | 🐛 58 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,290 | 🐛 58 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -80,7 +80,7 @@
 
   * Hugo 版风格一：<https://github.com/shenweiyan/WebStack-Hugo> ⭐ 1,475 | 🐛 2 | 🌐 Go | 📅 2026-03-23
   * Hexo 版：<https://github.com/HCLonely/hexo-theme-webstack> ⭐ 507 | 🐛 7 | 🌐 CSS | 📅 2025-09-05
-  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 423 | 🐛 1 | 🌐 Java | 📅 2026-07-30
+  * Java 版：<https://github.com/jsnjfz/WebStack-Guns> ⭐ 424 | 🐛 1 | 🌐 Java | 📅 2026-07-30
   * Hugo 版风格二：<https://github.com/iplaycode/webstack-hugo> ⭐ 242 | 🐛 8 | 🌐 HTML | 📅 2024-07-15
   * Vue 版：<https://github.com/Anjaxs/WebStack-vue/tree/master> ⭐ 150 | 🐛 8 | 🌐 CSS | 📅 2023-03-15
   * Typecho 版：<https://www.zmki.cn/5366.html>
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
