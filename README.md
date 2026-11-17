@@ -25,7 +25,7 @@
 
 🦩**van-nav**
 
-* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,285 | 🐛 58 | 🌐 TypeScript | 📅 2025-07-14
+* 项目地址：[van-nav](https://github.com/Mereithhh/van-nav) ⭐ 1,286 | 🐛 58 | 🌐 TypeScript | 📅 2025-07-14
 
 * 项目介绍：一个轻量导航站，汇总你的所有服务。
 
@@ -65,7 +65,7 @@
 
 🦩**Webstack 网址导航**
 
-* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,362 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
+* 项目地址：[WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) ⭐ 7,363 | 🐛 89 | 🌐 CSS | 📅 2024-05-04
 
 * 项目介绍：静态响应式网址导航网站
 
@@ -88,7 +88,7 @@
 
 🦩**OneNav**
 
-* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,144 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-29
+* 项目地址：[onenav](https://github.com/helloxz/onenav) ⭐ 3,145 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-29
 
 * 项目介绍：使用 PHP + SQLite 3 开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
@@ -114,7 +114,7 @@
 
 🦩**极客猿导航**
 
-* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,912 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
+* 项目地址：[geek-navigation](https://github.com/geekape/geek-navigation) ⭐ 1,911 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02
 
 * 项目介绍：独立开发者的导航站
 
@@ -184,7 +184,7 @@
 
 🦩**团队服务导航**
 
-* 项目地址：[team-nav](https://github.com/tuituidan/team-nav) ⭐ 565 | 🐛 49 | 🌐 Java | 📅 2025-07-11
+* 项目地址：[team-nav](https://github.com/tuituidan/team-nav) ⭐ 564 | 🐛 49 | 🌐 Java | 📅 2025-07-11
 
 * 项目介绍：前后端完整的网址导航服务，本系统定位于研发团队内部使用，提供多种的卡片图标生成方式，以保持页面美观，能将上传的原型压缩包自动生成可访问的地址。
 
@@ -221,4 +221,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
