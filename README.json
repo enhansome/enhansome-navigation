@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7363,
+            "stars": 7364,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -210,7 +210,7 @@
             "open_issues": 43,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3145,
+            "stars": 3146,
             "topics": [
               "bookmark",
               "navigation",
@@ -261,7 +261,7 @@
             "open_issues": 3,
             "owner": "HoYuenhang",
             "repo": "aNavigation",
-            "stars": 364,
+            "stars": 363,
             "topics": [
               "bootstrap",
               "jquery"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:11:03.993Z",
+    "last_updated": "2026-11-18T18:51:30.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 12,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 672,
+      "stars": 671,
       "topics": [
         "awesome",
         "awesome-list",
