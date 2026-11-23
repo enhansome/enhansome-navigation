@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "php"
             ]
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:49:50.296Z",
+    "last_updated": "2026-11-23T22:02:55.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
@@ -450,7 +450,7 @@
       "open_issues": 13,
       "owner": "eryajf",
       "repo": "awesome-navigation",
-      "stars": 671,
+      "stars": 672,
       "topics": [
         "awesome",
         "awesome-list",
