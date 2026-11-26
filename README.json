@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1286,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -207,7 +207,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T05:36:57Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
             "stars": 3143,
@@ -232,10 +232,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-07-02T05:29:34Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "geekape",
             "repo": "geek-navigation",
-            "stars": 1910,
+            "stars": 1909,
             "topics": [
               "express",
               "mongodb",
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:56:35.563Z",
+    "last_updated": "2026-11-26T19:37:13.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
