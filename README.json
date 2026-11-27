@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7367,
+            "stars": 7369,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -232,7 +232,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-07-02T05:29:34Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "geekape",
             "repo": "geek-navigation",
             "stars": 1909,
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:37:13.924Z",
+    "last_updated": "2026-11-27T19:28:14.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
