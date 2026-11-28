@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "Mereithhh",
             "repo": "van-nav",
-            "stars": 1287,
+            "stars": 1286,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -61,7 +61,7 @@
             "open_issues": 89,
             "owner": "WebStackPage",
             "repo": "WebStackPage.github.io",
-            "stars": 7369,
+            "stars": 7367,
             "topics": [
               "bookmark",
               "dao-hang",
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "shenweiyan",
                 "repo": "WebStack-Hugo",
-                "stars": 1473,
+                "stars": 1471,
                 "topics": [
                   "hugo",
                   "navigation",
@@ -120,7 +120,7 @@
                 "open_issues": 7,
                 "owner": "HCLonely",
                 "repo": "hexo-theme-webstack",
-                "stars": 508,
+                "stars": 507,
                 "topics": [
                   "hexo",
                   "hexo-theme",
@@ -145,7 +145,7 @@
                 "open_issues": 1,
                 "owner": "jsnjfz",
                 "repo": "WebStack-Guns",
-                "stars": 422,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "iplaycode",
                 "repo": "webstack-hugo",
-                "stars": 241,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -187,7 +187,7 @@
                 "open_issues": 8,
                 "owner": "Anjaxs",
                 "repo": "WebStack-vue",
-                "stars": 150,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:31.723Z"
@@ -210,7 +210,7 @@
             "open_issues": 44,
             "owner": "helloxz",
             "repo": "onenav",
-            "stars": 3143,
+            "stars": 3141,
             "topics": [
               "bookmark",
               "navigation",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "LyLme",
             "repo": "lylme_spage",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "php"
             ]
@@ -407,7 +407,7 @@
             "open_issues": 2,
             "owner": "zhuima",
             "repo": "daohang",
-            "stars": 272,
+            "stars": 271,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.723Z"
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:28:14.482Z",
+    "last_updated": "2026-11-28T18:14:46.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧭 优秀的导航项目，优质的导航站搜集整理",
